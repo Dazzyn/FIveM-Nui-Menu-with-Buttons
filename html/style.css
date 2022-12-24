@@ -1,0 +1,41 @@
+#bg {
+    width: 1000px;
+    height: 700px;
+    background-color: orange;
+    left: 450px;
+    top: 50px;
+    position: relative;
+    border-radius: 40px;
+    border-color: black;
+    border-style: solid;
+}
+
+#close {
+    left: 1320px;
+    top: 110px;
+    font-size: 50px;
+    background-color: black;
+    text-align: center;
+    padding-left: 30px;
+    position: absolute;
+    color: white;
+    width: 100px;
+    height: 100px;
+    padding: 15px;
+    border-radius: 20%;
+}
+
+#button2 {
+    top: 300px;
+    left: 800px;
+    background-color: black;
+    font-size: 60px;
+    text-align: center;
+    padding-left: 30px;
+    position: absolute;
+    color: white;
+    width: 300px;
+    height: 300px;
+    padding: 15px;
+    border-radius: 20%;
+}
